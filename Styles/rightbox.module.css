@@ -1,0 +1,75 @@
+
+.right_container {
+    display: flex;
+    padding: 2rem 5rem;
+    width: 100%;
+  }
+  
+  .form_container {
+    width: 100%;
+    margin-top: 6.375rem;
+    margin-bottom: 4rem;
+    padding: 0;
+  }
+  
+  .form_container form {
+    width: 28rem;
+    height: auto;
+  }
+  
+  #textwithlikid span,
+  .link {
+    font-size: 0.875rem;
+  }
+  
+  .space {
+    height: 2rem;
+    width: 100%;
+  }
+  
+  .info_title {
+    position: relative;
+    margin-bottom: 3px;
+  }
+  
+  .form_field {
+    width: 100%;
+  }
+  
+  .input_field {
+    width: 100%;
+  }
+  
+  .input_field label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .input_field input {
+    height: 3rem;
+    width: 100%;
+    border: 1px solid red;
+  }
+  
+  .checkbox_container {
+    display: flex;
+    padding: 5px;
+  }
+  
+  .checkbox_container input {
+    margin-right: 5px;
+    height: 1.5rem;
+    width: 1.5rem;
+  }
+  
+  .btn {
+    color: white;
+    background-color: black;
+    border-radius: 64px;
+    width: 100%;
+    height: 3.5rem;
+    font-size: 0.875rem;
+    cursor: pointer;
+    padding: 5px;
+  }
+  
